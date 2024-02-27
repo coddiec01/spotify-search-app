@@ -1,4 +1,4 @@
-# spotify-search-app
+# Spotify Search App
 This document provides details on how to implement a simple program to search for albums on Spotify using Python.
 # Prerequisites
 	•	A Spotify account
